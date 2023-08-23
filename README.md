@@ -25,3 +25,11 @@ visualização na página.
 
 - Adaptação para mobile;
 - Botões para exportação, CSV, PDF e PNG.
+
+
+O q? Sistema q preve condicoes climáticas para planejamento de cronograma de obras
+Como? Dados de radar,raios,estações meteorologicas,localização das obra, Com essas informações um sistema usa calculos fisicks e matemáticos para calcular o tempo
+Quando? Ao inicio de uma obra e no decorrer dela, ou com outros fins um uso diario ou semanal como o cliente do estaleiro
+Quem? 5 socios e 2 funcionários 
+
+
