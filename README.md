@@ -1,42 +1,18 @@
-Quem?
+#Quem?
+Nimbus é uma empresa da área de metereologia que fez parte do "desafio COR", programa de inovação do Centro de Operações da Prefeitura do Rio, e ganhou certificado do órgão com o seu programa Cronos, capaz de prever chuvas através do uso da inteligência artificial.
+O programa, além de ser utilizado pelo órgão da prefeitura, é voltado para o mercado de construção civil, sendo assim, engenheiros e peões de obra também o utilizam.
 
+#O quê?
+O sistema "Cronos" da empresa visa, principalmente, prever condições climáticas para planejamento de cronograma de obras além de previsões climáticas em geral.
 
+#Onde?
+Iniciada no Rio, a empresa já expandiu para mais estados do Sudeste e está iniciando projetos em Coritiba.
 
+#Como?
+Dados de Radar, Raios, Estações Metereológicas e Aspectos da Obra. Com essas informações, o algoritmo usa calculos fisicos e matemáticos, aliados a inteligência artificial, para prever condições metereológicas.
 
+#Quando?
+Com o uso variando de acordo com o usuário, em geral, o programa é utilizado ao inicio de uma obra e no decorrer dela, ou com outros fins que demandem uso diário ou semanal.
 
-
-#
-# O que é a Nimbus?
-
-Empresa fundada em 2020, que atua no ramo meteorológico, presta serviços de monitoramento e previsão do tempo, por meio de uma página na web, vendida na forma de mensalidade e prestando serviço personalizado para diversos clientes.
-
-## Desafio: Aprimorar a página CRONOS;
-
-### Must have:
-
-- Gráfico em barras:
-
-visualizar as variáveis velocidade de vento; rajada de vento; direção do vento; filtros em todas as funcionalidades e adaptação dinâmica do gráfico.
-
-- Mapa:
-
-preencher marcadores das estações condicionalmente dependendo da situação meteorológica;
-
-interatividade com o mapa;
-
-seleção de área no mapa para coleta de informações.
-
-- Tabela CSV:
-
-visualização na página.
-
-- Adaptação para mobile;
-- Botões para exportação, CSV, PDF e PNG.
-
-
-O q? Sistema q preve condicoes climáticas para planejamento de cronograma de obras
-Como? Dados de radar,raios,estações meteorologicas,localização das obra, Com essas informações um sistema usa calculos fisicks e matemáticos para calcular o tempo
-Quando? Ao inicio de uma obra e no decorrer dela, ou com outros fins um uso diario ou semanal como o cliente do estaleiro
-Quem? 5 socios e 2 funcionários 
-
-
+#Por quê?
+A empresa entende que "controlar a natureza é impossível, mas entendê-la é essencial", por isso, ela fornece serviços de metereologia para prefeituras e para o mercado de construção civil, ajudando no planejamento e prevenção de problemas que a chuva pode causar.
