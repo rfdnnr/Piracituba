@@ -16,3 +16,20 @@ Com o uso variando de acordo com o usuário, em geral, o programa é utilizado a
 
 Por quê?
 A empresa entende que "controlar a natureza é impossível, mas entendê-la é essencial", por isso, ela fornece serviços de metereologia para prefeituras e para o mercado de construção civil, ajudando no planejamento e prevenção de problemas que a chuva pode causar.
+
+Must have:
+Gráfico em barras:
+visualizar as variáveis velocidade de vento; rajada de vento; direção do vento; filtros em todas as funcionalidades e adaptação dinâmica do gráfico.
+
+Mapa:
+Preencher marcadores das estações condicionalmente dependendo da situação meteorológica;
+
+Interatividade com o mapa;
+
+Seleção de área no mapa para coleta de informações.
+
+Tabela CSV:
+Visualização na página.
+
+Adaptação para mobile;
+Botões para exportação, CSV, PDF e PNG.
