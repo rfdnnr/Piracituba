@@ -2,12 +2,18 @@ Quem?
 Nimbus é uma empresa da área de metereologia que fez parte do "desafio COR", programa de inovação do Centro de Operações da Prefeitura do Rio, e ganhou certificado do órgão com o seu programa Cronos, capaz de prever chuvas através do uso da inteligência artificial.
 O programa, além de ser utilizado pelo órgão da prefeitura, é voltado para o mercado de construção civil, sendo assim, engenheiros e peões de obra também o utilizam.
 
+Quem?
+o sistema é utilizado pelo órgão da prefeitura,pelo para o mercado de construção civil, engenheiros,mestres e peões de obra, como outras areas q dependem da situação climática para operarem como estaleiros 
+
+
 O quê?
-O sistema "Cronos" da empresa visa, principalmente, prever condições climáticas para planejamento de cronograma de obras além de previsões climáticas em geral.
+O sistema "Cronos" da empresa visa, principalmente, prever condições climáticas para planejamento de cronograma de obras além de previsões climáticas em geral.dados liberados sao temperatura direcao e velocidade do vento, visibilidade, umidade dentre outros isso tudo conectado a datas e horários e locais
 
 Onde?
 Iniciada no Rio, a empresa já expandiu para mais estados do Sudeste e está iniciando projetos em Coritiba.
 
+Onde?
+os dados serão apresentados num site, onde ele terá aceso a um mapa interativo,uma API que o cliente irá por suas preferncias de localização data e janela de tempo, o cliente tera também acesso a uma tabela ode será conectada datas 
 Como?
 Dados de Radar, Raios, Estações Metereológicas e Aspectos da Obra. Com essas informações, o algoritmo usa calculos fisicos e matemáticos, aliados a inteligência artificial, para prever condições metereológicas.
 
