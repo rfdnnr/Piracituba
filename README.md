@@ -25,3 +25,14 @@ Seleção de área no mapa para coleta de informações.
 Tabela CSV: Visualização na página.
 
 Adaptação para mobile; Botões para exportação, CSV, PDF e PNG.
+
+requisitos: 
+-página que ofereça adaptação para mobile
+
+-parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento
+
+-abaixo do formulario um gráfico dinamico que mostra a direção dos ventos, velocidade e rajadas; junto ao inteervalo de tempo submetido no formulário
+
+-no canto inferior esquerdo uma mapa interativo onde o usuário deve selecionar um marcador ,que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse
+
+-no canto inferior direito haverá uma tabela com um design de facil legibilidade e esteticamente otimizada com os dados submetidos no formulario acima e ser exportável para CSV e PDF
