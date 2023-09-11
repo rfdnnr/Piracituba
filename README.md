@@ -21,11 +21,15 @@ Requisitos Funcionais:
 
 -Abaixo do formulario um gráfico dinâmico que mostra a direção dos ventos, velocidade e rajadas; junto ao intervalo de tempo submetido no formulário.
 
--No canto inferior esquerdo uma mapa interativo onde o usuário deve selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
+-No canto inferior esquerdo um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
 
--No canto inferior direito haverá uma tabela com um design de fácil legibilidade e esteticamente otimizada com os dados submetidos no formulario acima e ser exportável para CSV e PDF.
+-No mapa, ter preenchimento de cores de acordo com a criticidade do nível de chuva.
+
+-Tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
 
 Requisitos não funcionais:
 
--Página que ofereça adaptação para mobile
+-Página que ofereça adaptação para mobile.
+
+-Tabela com um design de fácil legibilidade e esteticamente otimizada.
 
