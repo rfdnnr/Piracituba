@@ -13,6 +13,7 @@ Os dados tem um histórico diário e semanal, e os dados de deslocamento de temp
 Por quê? A empresa entende que "controlar a natureza é impossível, mas entendê-la é essencial", por isso, ela fornece serviços de metereologia para prefeituras e para o mercado de construção civil, ajudando na gestão de risco climático, na redução de prejuízos com  menos perda de materiais, planejamento e cronograma mais eficientes, maior segurança dos trabalhadores e aumento da produtividade.
 
 Propósito do sistema: Juntar os dados necessários fornecidos ao sistema para que, retorne ao usuário de forma menos complexa e centralizada as informações que deseja, visando atender os pontos de venda centrais da empresa.
+Isso, sendo feito através de um remodelamento da página e seus dados, com atenção ao usuário mobile, visando a legibilidade e estética.
 
 
 Requisitos Funcionais:
