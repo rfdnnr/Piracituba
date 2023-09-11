@@ -14,25 +14,18 @@ Por quê? A empresa entende que "controlar a natureza é impossível, mas entend
 
 Propósito do sistema: Juntar os dados necessários fornecidos ao sistema para que, retorne ao usuário de forma menos complexa e centralizada as informações que deseja, visando atender os pontos de venda centrais da empresa.
 
-Must have: 
 
--Gráfico em barras: visualizar as variáveis velocidade de vento; rajada de vento; direção do vento; filtros em todas as funcionalidades e adaptação dinâmica do gráfico.
+Requisitos Funcionais:
 
--Mapa interativo: Preencher marcadores das estações condicionalmente dependendo da situação meteorológica;
+-Parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
-Seleção de área no mapa para coleta de informações.
+-Abaixo do formulario um gráfico dinâmico que mostra a direção dos ventos, velocidade e rajadas; junto ao intervalo de tempo submetido no formulário.
 
-Tabela CSV: Visualização na página.
+-No canto inferior esquerdo uma mapa interativo onde o usuário deve selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
 
-Adaptação para mobile; Botões para exportação, CSV, PDF e PNG.
+-No canto inferior direito haverá uma tabela com um design de fácil legibilidade e esteticamente otimizada com os dados submetidos no formulario acima e ser exportável para CSV e PDF.
 
-requisitos: 
--página que ofereça adaptação para mobile
+Requisitos não funcionais:
 
--parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento
+-Página que ofereça adaptação para mobile
 
--abaixo do formulario um gráfico dinamico que mostra a direção dos ventos, velocidade e rajadas; junto ao inteervalo de tempo submetido no formulário
-
--no canto inferior esquerdo uma mapa interativo onde o usuário deve selecionar um marcador ,que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse
-
--no canto inferior direito haverá uma tabela com um design de facil legibilidade e esteticamente otimizada com os dados submetidos no formulario acima e ser exportável para CSV e PDF
