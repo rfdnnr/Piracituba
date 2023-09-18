@@ -1,3 +1,6 @@
+Nimbus meteorologia
+
+
 ***Quem?*** 
 - Nimbus é uma empresa da área de metereologia que fez parte do "desafio COR", programa de inovação do Centro de Operações da Prefeitura do Rio, e ganhou certificado do órgão com o seu programa Cronos. O sistema, além de ser utilizado pelo órgão da prefeitura, é voltado para o mercado de construção civil, sendo assim, engenheiros, mestres e peões de obra também o utilizam, assim como outras áreas que dependam da situação climática para operar como estaleiros.
 
@@ -26,19 +29,19 @@ Isso, sendo feito através de um remodelamento da página e seus dados, com aten
 
 ***Requisitos Funcionais:***
 
-- O *sistema*, na parte superior da janela, mostrar um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
+- O *sistema* mostrará na parte superior da janela, mostrar um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
-- No *sistema*, abaixo do formulário, um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas; juntos ao intervalo de tempo submetido no formulário.
+- Abaixo do formulário, o *sistema* deverá mostrar um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas; juntos ao intervalo de tempo submetido no formulário.
 
-- O *sistema* oferecer, no canto inferior esquerdo, um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
+- O *sistema* deve oferecer, no canto inferior esquerdo, um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
 
-- No mapa, o *sistema* fazer o preenchimento de cores de acordo com a criticidade do nível de chuva.
+- No mapa, o *sistema* fará o preenchimento de cores de acordo com a criticidade do nível de chuva.
 
-- No *sistema*, a opção de baixar uma tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
+- O *sistema* dará a opção de baixar uma tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
 
 ***Requisitos não funcionais:***
 
-- *Sistema* que ofereça adaptação para mobile.
+- Um *Sistema* que ofereçerá adaptação para mobile.
 
-- *Sistema* com tabela com um design de fácil legibilidade e esteticamente otimizada.
+- Um *Sistema* que mostre uma tabela com um design de fácil legibilidade e esteticamente otimizada.
 
