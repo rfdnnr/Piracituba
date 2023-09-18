@@ -23,25 +23,31 @@ Os dados tem um histórico diário e semanal, e os dados de deslocamento de temp
 
 ***Propósito do sistema:***
 - Juntar os dados necessários fornecidos ao sistema para que, retorne ao usuário de forma menos complexa e centralizada as informações que deseja, visando atender os pontos de venda centrais da empresa.
-Isso, sendo feito através de um remodelamento da página e seus dados, com atenção ao usuário mobile, visando a legibilidade e estética.
+Isso, sendo feito através de uma nova página e seus dados, com atenção ao usuário mobile, visando a legibilidade e estética.
 
 
 
 ***Requisitos Funcionais:***
 
-- O *sistema* mostrará na parte superior da janela, mostrar um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
+- O *sistema* deve ter, na parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
-- Abaixo do formulário, o *sistema* deverá mostrar um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas; juntos ao intervalo de tempo submetido no formulário.
+- Abaixo do formulário, o *sistema* deve oferecer um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas; juntos ao intervalo de tempo submetido no formulário.
 
 - O *sistema* deve oferecer, no canto inferior esquerdo, um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
 
-- No mapa, o *sistema* fará o preenchimento de cores de acordo com a criticidade do nível de chuva.
+- O *sistema* deve preencher o mapa com cores de acordo com a criticidade do nível de chuva.
 
-- O *sistema* dará a opção de baixar uma tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
+- O *sistema* deve permitir baixar uma tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
 
 ***Requisitos não funcionais:***
 
-- Um *Sistema* que ofereçerá adaptação para mobile.
+- O *sistema* deve ser desenvolvido em React.
 
-- Um *Sistema* que mostre uma tabela com um design de fácil legibilidade e esteticamente otimizada.
+- O *sistema* deve estar disponível na web.
+
+- O *sistema* deve estar disponível 24 horas por dia.
+
+- O *sistema* deve oferecer adaptação para mobile.
+
+- O *sistema* deve exibir uma tabela com um design de fácil legibilidade e esteticamente otimizada.
 
