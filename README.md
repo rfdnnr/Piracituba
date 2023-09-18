@@ -1,4 +1,4 @@
-Nimbus meteorologia
+#Nimbus Meteorologia#
 
 
 ***Quem?*** 
@@ -29,25 +29,33 @@ Isso, sendo feito através de uma nova página e seus dados, com atenção ao us
 
 ***Requisitos Funcionais:***
 
-- O *sistema* deve ter, na parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
+- [RF-1]: O *sistema* deve ter, na parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
-- Abaixo do formulário, o *sistema* deve oferecer um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas; juntos ao intervalo de tempo submetido no formulário.
+- [RF-2]: O *sistema* deve oferecer um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas; juntos ao intervalo de tempo submetido no formulário.
 
-- O *sistema* deve oferecer, no canto inferior esquerdo, um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
+- [RF-3]: O *sistema* deve permitir baixar uma tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
 
-- O *sistema* deve preencher o mapa com cores de acordo com a criticidade do nível de chuva.
+- [RF-4]: O *sistema* deve apresentar os dados de acordo com o desejo do usuário no formulário.
 
-- O *sistema* deve permitir baixar uma tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
+- [RF-5]: O *sistema* deve oferecer, no canto inferior esquerdo, um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
+
+- [RF-6]: O *sistema* deve preencher o mapa com cores de acordo com a criticidade do nível de chuva.
+
 
 ***Requisitos não funcionais:***
 
-- O *sistema* deve ser desenvolvido em React.
+- [RNF-1]: O *sistema* deve ser desenvolvido com React.
 
-- O *sistema* deve estar disponível na web.
+- [RNF-2]: O *sistema* deve estar disponível na web.
 
-- O *sistema* deve estar disponível 24 horas por dia.
+- [RNF-3]: O *sistema* deve estar disponível 24 horas por dia.
 
-- O *sistema* deve oferecer adaptação para mobile.
+- [RNF-4]: O *sistema* deve oferecer adaptação intuitiva para mobile.
 
-- O *sistema* deve exibir uma tabela com um design de fácil legibilidade e esteticamente otimizada.
+- [RNF-5]: O *sistema* deve exibir uma tabela com um design de fácil legibilidade e esteticamente otimizada.
 
+- [RNF-6]: O *sistema* deve ser versionado (no projeto será feito através do GitHub).
+
+- [RNF-7]: O *sistema* deve possuir um código de fácil manutenção.
+
+- [RNF-8]: O *sistema* deve ser responsivo.
