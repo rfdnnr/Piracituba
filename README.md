@@ -34,8 +34,8 @@
 - O *sistema* existe para fornecer serviços de metereologia para prefeituras e para o mercado de construção civil.
 - Ajudar na *gestão de risco climático*
 - *Redução de prejuízos* com menos perda de materiais.
-- *Planejamento e cronograma mais eficientes*
-- Maior *segurança dos trabalhadores*
+- *Planejamento e cronograma mais eficientes*.
+- Maior *segurança dos trabalhadores*.
 - Aumento geral da *produtividade*.
 
 ## Propósito
