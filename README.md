@@ -73,7 +73,7 @@ O projeto tem em vista a:
 
 - [RNF-5]: O *sistema* deve exibir uma tabela com um design de fácil legibilidade e esteticamente otimizada.
 
-- [RNF-6]: O *sistema* deve ser versionado (no projeto será feito através do GitHub).
+- [RNF-6]: O *sistema* deve ser versionado (o projeto será feito através do GitHub).
 
 - [RNF-7]: O *sistema* deve possuir um código de fácil manutenção.
 
