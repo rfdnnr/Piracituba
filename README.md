@@ -50,7 +50,7 @@ O projeto tem em vista a:
 
 - [RF-1]: O *sistema* deve ter, na parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
-- [RF-2]: O *sistema* deve oferecer um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas; juntos ao intervalo de tempo submetido no formulário.
+- [RF-2]: O *sistema* deve oferecer um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas.
 
 - [RF-3]: O *sistema* deve permitir baixar uma tabela com os dados submetidos no formulário e ser exportável para CSV, PDF e PNG.
 
