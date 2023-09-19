@@ -46,7 +46,7 @@ O projeto tem em vista a:
 - Novas disponibilidades também visam o usuário em desktop. 
  
 
-***Requisitos Funcionais:***
+## Requisitos Funcionais
 
 - [RF-1]: O *sistema* deve ter, na parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
@@ -61,7 +61,7 @@ O projeto tem em vista a:
 - [RF-6]: O *sistema* deve preencher o mapa com cores de acordo com a criticidade do nível de chuva.
 
 
-***Requisitos não funcionais:***
+## Requisitos não funcionais
 
 - [RNF-1]: O *sistema* deve ser desenvolvido com React.
 
