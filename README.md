@@ -49,4 +49,4 @@ requisitos:
 
 -no canto inferior esquerdo uma mapa interativo onde o usuário deve selecionar um marcador ,que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse
 
--no canto inferior direito haverá uma tabela com um design de facil legibilidade e esteticamente otimizada com os dados submetidos no formulario acima e ser exportável para CSV e PDf
+-no canto inferior direito haverá uma tabela com um design de facil legibilidade e esteticamente otimizada com os dados submetidos no formulario acima e ser exportável para CSV e Pff
