@@ -12,7 +12,7 @@
 - O *sistema*, é utilizado pelo órgão da *prefeitura*, também é voltado para o mercado de *construção civil*, sendo assim, *engenheiros, mestres e peões de obra também o utilizam*, assim como outras áreas que dependam da situação climática para operar como estaleiros.
 
 ***O quê?***
-- O *sistema* "Cronos" da empresa visa, principalmente, prever condições climáticas para planejamento de cronograma de obras além de previsões climáticas em geral.
+- O *sistema* "Cronos" visa, principalmente, prever condições climáticas para planejamento de cronograma de obras além de previsões climáticas em geral.
 - Conectados a datas e horários e locais, o histórico de dados liberados são: temperatura, direção e velocidade do vento, visibilidade, umidade e outros. 
 
 ***Onde?*** 
