@@ -83,7 +83,7 @@ O projeto tem em vista a:
 ## Casos de Uso
 
 ### 1º
-- ***Nome***: Prefeitura utiliza novo histórico de dados para obtenção de informações para previsão do tempo.
+- ***Nome***: Prefeitura utiliza novo histórico de dados para obtenção de informações da previsão do tempo.
 - ***Atores***: Funcionários do centro de operações da prefeitura que use o sistema Cronos.
 - ***Pré-Condições***:
 > - Usuário deve ter conexão à internet.
