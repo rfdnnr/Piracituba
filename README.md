@@ -88,5 +88,6 @@ Pré-Condições:
 - Usuário deve ter conexão à internet.
 - Usuário deve possuir acesso ao sistema.
 - Usuário deve estar na página do novo histórico de dados.
+
 Fluxo Básico: Usuário fazer login no sistema -> Acessar o histórico de dados -> Botar os dados desejados no formulário de busca (como data e local) -> Obter os dados visualmente no mapa, gráfico ou tabela da dashboard; ou apertar o botão de exportar gerar PNG; ou o botão de baixar CSV; ou o botão de gerar relatório.
 Pós condições: Os funcionários da prefeitura tivem acesso aos dados desejados para fornecer a previsão do tempo.
