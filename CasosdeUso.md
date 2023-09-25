@@ -1,16 +1,12 @@
-# Resumo casos de uso
+# Casos de uso
 
-- Nome (descrição)
+- Nome: Empresa de manutenção em torres utiliza para previsão da velocidade dos ventos e condições meteorológicas viáveis.
+- Atores: Central de operações da empresa gerencia sua equipe baseada no sistema cronos.
+- Pré-Condições:
+-   Usuário deve ter acesso a internet;
+-   Usuário deve ter acesso ao sistema;
+-   Usuário deve ter conhecimento sobre as funcionalidades do sistema para obter as informações desejadas.
 
-- Atores
-- Pré-Condições
-Exemplos: Efetuar uma compra, usuário tem que estar na página...
+- Fluxo Básico: Usuário deve logar no sistema -> Usuário deve escolher a data e as estações próximas onde deseja obter as informações -> Baixar relátorio com as informações desejadas e no formato desejado
 
-- Fluxo Básico (sequência de passos, pode ter ramificações)
-Exemplo: Escolher a data, escolher o formato, apertar o botão de exportar...
-Se tudo der certo é *"caminho feliz"*
-
-- Fluxo Alternativo (se der erro) ***Opcional***
-
-- Pós condições (resultado)
-Exemplo: a nota fiscal foi emitida
+- Pós condições: Operadores logísticos da empresa obtem as informações necessárias para ajustar a melhor e mais segura data e horário para realizar os serviços.
