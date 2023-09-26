@@ -39,11 +39,14 @@
 - Aumento geral da *produtividade*.
 
 ## Propósito
-O sistema Cronos deve ter um *Novo Histórico de Dados* que vise centralizar todos os dados metereológicos em uma *dashboard com mapa interativo, gráficos e tabelas* (os dados devem ser exportáveis para CSV, PDF e PNG).
+"O sistema Cronos deve ter um Novo Histórico de Dados que vise centralizar todos os dados meteorológicos em uma dashboard com mapa interativo, gráficos e tabelas. Além disso, os dados devem ser exportáveis para CSV, PDF e PNG, permitindo que os usuários extraiam informações valiosas de maneira conveniente.
 
 O projeto tem em vista a:
--  *Adaptação estética* da interface do Novo Histórico de Dados para o *uso mobile* com intuitividade e responsividade.  
-- Novas disponibilidades também visam o usuário em desktop. 
+
+Adaptação estética da interface do Novo Histórico de Dados para o uso mobile, com intuitividade e responsividade. Isso garantirá que os usuários possam acessar e interagir com os dados meteorológicos de forma eficaz em dispositivos móveis, proporcionando uma experiência amigável.
+Além disso, as novas disponibilidades também visam atender os usuários em desktop, proporcionando uma experiência de uso aprimorada em ambas as plataformas.
+
+Esse desenvolvimento vai reunir informações meteorológicas importantes em um formato atraente e, ao mesmo tempo, permitir que os usuários personalizem os relatórios de acordo com o que precisam. Isso vai economizar tempo e ajudar os usuários a tomar decisões mais informadas.
  
 
 ## Requisitos Funcionais
