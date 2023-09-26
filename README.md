@@ -103,7 +103,7 @@ O projeto tem em vista a:
 - ***Fluxo Básico***:
  - Acessar o histórico de dados
  - Botar os dados desejados no formulário de busca (como data e local)
- - o sistema deve mostrar os dados solicitados  
+ - O sistema deve mostrar os dados solicitados  
 - ***Pós condições***: Os dados para a previsão climática e gestão de riscos da obra foram obtidos.
 
 - ### 3º 
