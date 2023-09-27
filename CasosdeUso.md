@@ -1,4 +1,4 @@
-### 1º
+### 1º 📊
 - ***Nome***: Obtenção de dados com o gráfico.
 - ***Atores***: Usuário.
 - ***Pré-Condições***:
@@ -12,7 +12,7 @@
 
 - ***Pós condições***: Os dados para a previsão climática foram obtidos.
 
-### 2º 
+### 2º 📍
 - ***Nome***: Obtenção de dados através do mapa interativo.
 - ***Atores***: Usuário.
 - ***Pré-Condições***:
@@ -27,7 +27,7 @@
  
 - ***Pós condições***: Os dados para a previsão climática foram obtidos e possivelmente extraídos.
 
-- ### 3º 
+- ### 3º 📄
 - ***Nome***: Obtenção de dados através da tabela.
 - ***Atores***: Usuário.
 - ***Pré-Condições***:
