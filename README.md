@@ -119,6 +119,7 @@ O projeto tem em vista a:
 - ***Fluxo Básico***:
 - Acessar o histórico de dados
  - Botar os dados desejados no formulário de busca (como data e local)
- - O sistema deve mostrar os dados solicitados 
-- ***Pós condições***: Os dados para a previsão climática e gestão de riscos da obra foram obtidos.
+ - O sistema deve mostrar os dados solicitados de forma detalhada na tabela
+ - O sistema deve também dar a opção do usuário fazer o dowload dessa tabela por CSV 
+- ***Pós condições***: Os dados para a previsão climática e gestão de riscos da obra foram obtidos e possivelmente baixados.
 
