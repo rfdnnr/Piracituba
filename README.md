@@ -23,7 +23,7 @@
 - O *sistema* terá como entrada: *dados de radar, raios, estações metereológicas e aspectos da obra.*
 - Com essas informações, o *sistema usa cálculos físicos e matemáticos*, para prever condições metereológicas.
 - Além disso, o usuário tem *acesso ao sistema através de seu navegador* e *pode exportar esses dados para relatórios e laudos.*
-- O cliente tem acesso a uma *API* em que escolhe suas *preferências de localização e janela de tempo* e *exporta o histórico de dados no formato de arquivo de tabela.*
+- O cliente tem acesso a uma *API* em que escolhe suas *preferências de localização e janela de tempo* e *exporta o histórico de dados no formato desejado.*
 
 ***Quando?*** 
 - Com o uso variando de acordo com o usuário, em geral, o *sistema* é utilizado ao *inicio de uma obra e no decorrer dela*, ou com outros fins que demandem uso diário ou semanal. 
