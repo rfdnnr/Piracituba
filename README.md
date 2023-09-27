@@ -27,7 +27,7 @@
 
 ***Quando?*** 
 - Com o uso variando de acordo com o usuário, em geral, o *sistema* é utilizado ao *inicio de uma obra e no decorrer dela*, ou com outros fins que demandem uso diário ou semanal. 
-- Os dados tem um *histórico diário e semanal.*
+- Os dados também tem um *histórico diário e semanal.*
 - Dados de deslocamento de tempestades podem ser vistos em *tempo real*.
 
 ***Por quê?***
