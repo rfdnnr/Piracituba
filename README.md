@@ -77,3 +77,6 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 ## Interface sugerida 📱💻
 [Histórico Cronos.pdf](https://github.com/rfdnnr/Piracituba/files/12738515/Historico.Cronos.pdf)
 
+## Casos de Uso 📝
+https://github.com/rfdnnr/Piracituba/blob/main/CasosdeUso.md
+
