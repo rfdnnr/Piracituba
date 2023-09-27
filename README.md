@@ -1,13 +1,13 @@
-# Projeto Front-End
+# Projeto Front-End 🗃
 
 
-## Empresa
+## Empresa ™
 - *Nimbus* é uma *empresa* da área de *metereologia* que fez parte do "desafio COR", programa de inovação do Centro de Operações da Prefeitura do Rio, e ganhou certificado do órgão com o seu programa *Cronos.*
 - Iniciada no Rio, a empresa já expandiu para mais estados do Sudeste e está iniciando projetos em Coritiba.
 - A empresa entende que "controlar a natureza é impossível, mas entendê-la é essencial", por isso, ela fornece serviços de metereologia para prefeituras e para o mercado de construção civil, ajudando na gestão de risco climático, na redução de prejuízos com  menos perda de materiais, planejamento e cronograma mais eficientes, maior segurança dos trabalhadores e aumento da produtividade.
 
 
-## 5W2H
+## 5W2H ❓
 ***Quem?*** 
 - O *sistema*, é utilizado pelo órgão da *prefeitura*, também é voltado para o mercado de *construção civil*, sendo assim, *engenheiros, mestres e peões de obra também o utilizam*, assim como outras áreas que dependam da situação climática para operar como estaleiros.
 
@@ -38,10 +38,10 @@
 - Maior *segurança dos trabalhadores*.
 - Aumento geral da *produtividade*.
 
-## Propósito
+## Propósito 🏳
 Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatórios em CSV, PDF ou PNG e que também deve centralizar dados meteorológicos em uma dashboard com mapa interativo, gráficos e tabelas. Além disso, deve visar uma estética e experiência do usuário amigáveis,  permitindo que os usuários mobile e desktop extraiam informações valiosas de maneira ***intuitiva e responsiva***.
 
-## Requisitos Funcionais
+## Requisitos Funcionais ✏
 
 - [RF-1]: O *sistema* deve ter um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
@@ -56,7 +56,7 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 - [RF-6]: O *sistema* deve preencher o mapa com cores de acordo com a criticidade do nível de chuva.
 
 
-## Requisitos não funcionais
+## Requisitos não funcionais 🖊
 
 - [RNF-1]: O *sistema* deve ser desenvolvido com React.
 
@@ -74,6 +74,6 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 
 - [RNF-8]: O *sistema* deve ser responsivo.
 
-## Interface sugerida
+## Interface sugerida 📄
 [Histórico Cronos.pdf](https://github.com/rfdnnr/Piracituba/files/12738515/Historico.Cronos.pdf)
 
