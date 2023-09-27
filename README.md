@@ -83,15 +83,18 @@ O projeto tem em vista a:
 ## Casos de Uso
 
 ### 1º
-- ***Nome***: Prefeitura utiliza novo histórico de dados para obtenção de informações da previsão do tempo.
-- ***Atores***: Funcionários do centro de operações da prefeitura que use o sistema Cronos.
+- ***Nome***: obtenção de dados com o gráfico.
+- ***Atores***: Engenheiros e mestres de obra.
 - ***Pré-Condições***:
 > - Usuário deve possuir acesso ao sistema.
 > - Usuário deve estar na página do novo histórico de dados.
 
 - ***Fluxo Básico***:
-<br> Acessar o histórico de dados -> Botar os dados desejados no formulário de busca (como data e local) -> Obter os dados visualmente no mapa, gráfico ou tabela da dashboard; ou apertar o botão de gerar PNG; ou o botão de baixar CSV; ou o botão de gerar relatório.
-- ***Pós condições***: Os funcionários da prefeitura tiveram acesso aos dados desejados para fornecer a previsão do tempo.
+ - Acessar o histórico de dados
+ - Botar os dados desejados no formulário de busca (como data e local)
+ - O sistema deve mostrar os dados solicitados na tela do usuário na janela de tempo e condição climática pedida pelo usuário.
+ - O sistema deve mostrar os dados solicitados  
+- ***Pós condições***: Os dados para a previsão climática e gestão de riscos da obra foram obtidos.
 
 ### 2º 
 - ***Nome***: Obtenção de dados através do gráfico.
@@ -107,13 +110,15 @@ O projeto tem em vista a:
 - ***Pós condições***: Os dados para a previsão climática e gestão de riscos da obra foram obtidos.
 
 - ### 3º 
-- ***Nome***: Obtenção de dados para previsão climática.
+- ***Nome***: Obtenção de dados através da tabela.
 - ***Atores***: Engenheiros e mestres de obra.
 - ***Pré-Condições***:
 > - Usuário deve possuir acesso ao sistema.
 > - Usuário deve estar na página do novo histórico de dados.
 
 - ***Fluxo Básico***:
-<br> Acessar o histórico de dados -> Botar os dados desejados no formulário de busca (como data e local) -> Obter os dados visualmente no mapa, gráfico ou tabela da dashboard; ou apertar o botão de gerar PNG; ou o botão de baixar CSV; ou o botão de gerar relatório.
+- Acessar o histórico de dados
+ - Botar os dados desejados no formulário de busca (como data e local)
+ - O sistema deve mostrar os dados solicitados 
 - ***Pós condições***: Os dados para a previsão climática e gestão de riscos da obra foram obtidos.
 
