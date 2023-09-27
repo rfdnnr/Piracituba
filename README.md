@@ -75,4 +75,5 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 - [RNF-8]: O *sistema* deve ser responsivo.
 
 ## Interface sugerida
-[Histórico Cronos.pdf](https://github.com/rfdnnr/Piracituba/files/12733033/Historico.Cronos.pdf)
+[Histórico Cronos.pdf](https://github.com/rfdnnr/Piracituba/files/12738515/Historico.Cronos.pdf)
+
