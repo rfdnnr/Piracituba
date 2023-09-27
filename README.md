@@ -1,7 +1,7 @@
 # Projeto Front-End 🗃
 
 
-## Empresa ™
+## Empresa 💼
 - *Nimbus* é uma *empresa* da área de *metereologia* que fez parte do "desafio COR", programa de inovação do Centro de Operações da Prefeitura do Rio, e ganhou certificado do órgão com o seu programa *Cronos.*
 - Iniciada no Rio, a empresa já expandiu para mais estados do Sudeste e está iniciando projetos em Coritiba.
 - A empresa entende que "controlar a natureza é impossível, mas entendê-la é essencial", por isso, ela fornece serviços de metereologia para prefeituras e para o mercado de construção civil, ajudando na gestão de risco climático, na redução de prejuízos com  menos perda de materiais, planejamento e cronograma mais eficientes, maior segurança dos trabalhadores e aumento da produtividade.
@@ -74,6 +74,6 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 
 - [RNF-8]: O *sistema* deve ser responsivo.
 
-## Interface sugerida 📄
+## Interface sugerida 📱💻
 [Histórico Cronos.pdf](https://github.com/rfdnnr/Piracituba/files/12738515/Historico.Cronos.pdf)
 
