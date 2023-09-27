@@ -43,7 +43,7 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 
 ## Requisitos Funcionais
 
-- [RF-1]: O *sistema* deve ter, na parte superior da janela, um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
+- [RF-1]: O *sistema* deve ter um formulário onde o usuário digita os limites de tempo, variável meteorológica e ponto de monitoramento.
 
 - [RF-2]: O *sistema* deve oferecer um gráfico dinâmico que mostra: direção dos ventos, velocidades e rajadas.
 
@@ -51,7 +51,7 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 
 - [RF-4]: O *sistema* deve apresentar os dados de acordo com o desejo do usuário no formulário.
 
-- [RF-5]: O *sistema* deve oferecer, no canto inferior esquerdo, um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
+- [RF-5]: O *sistema* deve oferecer um mapa interativo onde o usuário pode selecionar um marcador, que representa uma estação meteorológica, com um clique único, ou selecionar uma ou várias estações com a criação de um polígono com o mouse.
 
 - [RF-6]: O *sistema* deve preencher o mapa com cores de acordo com a criticidade do nível de chuva.
 
@@ -68,7 +68,7 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 
 - [RNF-5]: O *sistema* deve exibir uma tabela com um design de fácil legibilidade e esteticamente otimizada.
 
-- [RNF-6]: O *sistema* deve ser versionado (o projeto será feito através do GitHub).
+- [RNF-6]: O *sistema* deve ser versionado (e o projeto terá o GitHub como ferramenta).
 
 - [RNF-7]: O *sistema* deve possuir um código de fácil manutenção.
 
