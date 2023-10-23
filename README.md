@@ -80,3 +80,6 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 ## Casos de Uso 📝
 https://github.com/rfdnnr/Piracituba/blob/main/CasosdeUso.md
 
+## React 📝
+https://github.com/rfdnnr/React-Piracituba.git
+
