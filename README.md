@@ -80,6 +80,13 @@ Criação de um módulo chamado "Novo Histórico de Dados" que exporte relatóri
 ## Casos de Uso 📝
 https://github.com/rfdnnr/Piracituba/blob/main/CasosdeUso.md
 
+## Componentes para mapa dinâmico 🗺
+
+- OpenStreetMap: Projeto que disponibiliza dados editáveis de mapas gratuitamente.
+- Link: https://www.openstreetmap.org
+- Biblioteca JavaScript *Leaflet* que oferece ferramentas para implementar mapas interativos.
+- Repositorio: https://github.com/Leaflet/Leaflet
+
 ## React 📝
 https://github.com/rfdnnr/React-Piracituba.git
 
