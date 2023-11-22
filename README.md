@@ -90,3 +90,25 @@ https://github.com/rfdnnr/Piracituba/blob/main/CasosdeUso.md
 ## React 📝
 https://github.com/rfdnnr/React-Piracituba.git
 
+## Participação
+
+Filipe Gama: 
+- Documentação de Casos de Uso e Requisitos.
+- Criação do Trello.
+- Manejo de versionamento de Código.
+
+Gabriel Monteiro:
+- Documentação do propósito e 5W2H.
+- Pesquisa de bibliotecas externas.
+
+Gabriel Perrota:
+- Apresentação em Slides.
+- Anotação de informações da empresa.
+
+Rafael:
+-Documentação do 5W2H, propósito, requisitos e casos de uso.
+-Design da página em React.
+-Implementação do mapa e gráfico.
+-Criação da Página "Sobre Nós".
+  
+
